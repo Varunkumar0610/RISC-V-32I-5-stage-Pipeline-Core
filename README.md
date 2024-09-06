@@ -95,7 +95,7 @@ The simulation has been in **Visual Studio** code with **Icarus Verilog environm
 
 **The Input Machine Learning Codes are present inside the mem.hexfile.**
 
-**Pipeline Simulation Waveform**
+**Pipeline Simulation Waveform:**
 
 ![pipeline waveform](https://github.com/user-attachments/assets/a2ff6866-87fa-4aa0-b489-59c82bb6be5b)
 
