@@ -1,4 +1,3 @@
-
 module Sign_Extend (In,ImmSrc,Imm_Ext);
     input [31:0] In;
     input [1:0] ImmSrc;
