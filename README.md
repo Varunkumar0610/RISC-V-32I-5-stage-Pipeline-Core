@@ -1,5 +1,5 @@
-# RISC-V--32I-5-stage-Pipeline-Core
-5 stage pipeline implementation of RISC-V 32I Processor.
+# RISC-V--32I-5-Stage-Pipeline-Core
+**5 stage pipeline implementation of RISC-V 32I Processor.**
 
 In this repository I have implemented 5 stage Pipelined processor which is actually the conversion of my previous single cycle implementation of processor into pipeline.
 Link to Previous single cycle implementation is given as: https://github.com/Varunkumar0610/RISC-V-Single-Cycle-Core.
